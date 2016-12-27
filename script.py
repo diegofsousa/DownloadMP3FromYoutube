@@ -1,5 +1,7 @@
 # -*- coding: iso-8859-1 -*-
 
+# This script was based on a code from Tafarel Yan - https://github.com/ArrowsX
+
 from urllib2 import urlopen
 from threading import Thread
 import youtube_dl
