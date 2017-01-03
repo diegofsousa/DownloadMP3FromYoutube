@@ -1,6 +1,8 @@
 This is a simple code to download videos from youtube to mp3 from a search.
 The project interface was produced with PyQt4 and business rules were produced with the beautifulsoup4 and youtube-dl libraries.
 
+Demonstration of running application: https://www.youtube.com/watch?v=G6cBJdXzxs0
+
 Step by Step to Install:
 
 First of all, have pip and virtualenv installed.
